@@ -1,18 +1,12 @@
-# Chat
+# Chat simples com phoenix framework
 
-To start your Phoenix server:
+![image](https://github.com/CaweAlves/chat/assets/84283988/20e279af-71b9-46b1-9415-0c963ea0f526)
 
-  * Run `mix setup` to install and setup dependencies
-  * Start Phoenix endpoint with `mix phx.server` or inside IEx with `iex -S mix phx.server`
+# Como rodar
 
-Now you can visit [`localhost:4000`](http://localhost:4000) from your browser.
+Para iniciar o servidor Phoenix você precisa:
 
-Ready to run in production? Please [check our deployment guides](https://hexdocs.pm/phoenix/deployment.html).
+  * rodar `mix setup` para instalar e setar as dependências do projeto.
+  * Iniciar o servidor com `mix phx.server` ou utilizando o IEX com `iex -S mix phx.server`
 
-## Learn more
-
-  * Official website: https://www.phoenixframework.org/
-  * Guides: https://hexdocs.pm/phoenix/overview.html
-  * Docs: https://hexdocs.pm/phoenix
-  * Forum: https://elixirforum.com/c/phoenix-forum
-  * Source: https://github.com/phoenixframework/phoenix
+Agora você pode ir até [`localhost:4000`](http://localhost:4000) no seu navegador web.
