@@ -1,6 +1,6 @@
 # Chat simples com phoenix framework
 
-![image](https://github.com/CaweAlves/chat/assets/84283988/20e279af-71b9-46b1-9415-0c963ea0f526)
+![image](https://github.com/CaweAlves/chat/assets/84283988/19b7e234-75f2-44d7-9e12-850fe18f42b4)
 
 # Como rodar
 
